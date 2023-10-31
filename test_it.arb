@@ -2,5 +2,9 @@
   "appName": "TelehealthIT",
   "@appName": {},
   "home": "Casa",
-  "@home": {}
+  "@home": {},
+  "schedule": "Calendario",
+  "@schedule": {},
+  "care": "Cura",
+  "@care": {}
 }
