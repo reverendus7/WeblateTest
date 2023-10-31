@@ -1,1 +1,6 @@
-{}
+{
+  "appName": "TelehealthIT",
+  "@appName": {},
+  "home": "Casa",
+  "@home": {}
+}
