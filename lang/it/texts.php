@@ -10,8 +10,8 @@ return [
     | has failed, such as for an invalid token or invalid new password.
     |
     */
-    'reset' => '',
-    'sent' => '',
+    'reset' => 'La tua password è stata resettata!',
+    'sent' => 'Ti abbiamo inviato il link di reset password!',
     'throttled' => '',
     'token' => '',
     'user' => "",
